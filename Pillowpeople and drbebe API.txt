@@ -1,0 +1,19 @@
+Pillowpeople API Facebook
+
+Facebook APP ID : 1529522070508307
+Facebook App Secret : 92dc6750c76ea15d809196dfc00a4ce1
+
+Pillowpeople API Google
+
+Google Client ID : 181932978884-itlag8ki8pmc887s2j9lpr2fmve0v6tl.apps.googleusercontent.com
+Google Client Secret : sCL6RHS7uChwua4iI4AOk8RU
+
+Drbebe API Facebook
+
+Facebook APP ID : 544398362660012
+Facebook App Secret : fa5879f464ff839d9e331d8528fbc356
+
+Drbebe API Google
+
+Google Client ID : 829961106508-pd2qu77efilrfs71efr5nt3gukog8h3t.apps.googleusercontent.com
+Google Client Secret : 4cJtfXx7koOew80JZ2h1eQfh
